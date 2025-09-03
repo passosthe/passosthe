@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou a Sthefane Passos</h1>
+<h1 align="center"> Olá, eu sou a Sthefane Passos</h1>
 
 <p align="center">
   🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> <br>
@@ -6,7 +6,7 @@
   💻 Experiência inicial com <b>Front-end (HTML, CSS, JS, Angular, TS)</b>
 </p>
 
-## 🔥 O que estou aprendendo atualmente
+## O que estou aprendendo atualmente
 - 🐍 **Python para Data Science**
 - 📊 **NumPy, Pandas e Matplotlib**
 - 🤖 **Conceitos iniciais de Machine Learning**
