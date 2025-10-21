@@ -3,7 +3,6 @@
 <p align="center">
   🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> <br>
   📊 Em formação em <b>Data Science & Machine Learning</b> <br>
-  💻 Experiência inicial com <b>Front-end (HTML, CSS, JS, Angular, TS)</b>
 </p>
 
 ## O que estou aprendendo atualmente
